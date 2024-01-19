@@ -43,6 +43,14 @@ In ensuring data integrity and enhancing the quality of the datasets during the 
    - used =VLOOKUP( ) etc.
 
 ## Sharing Insights and PRESENTING TO STAKEHOLDERS
+**ANALYSIS**
+Animals and science are the two most popular categories of content, showing that people enjoy "real-ife" and "factual content the most.
+
+**INSIGHTS**
+
+Food is a common theme with the top 5 categones with Healthy Eating ranking the highest. This may give an indication to the audience within  user base. You could use this ght to create a campaign and work with heathy eating brands to boost user engagement
+
+This ad-hoc analysis is insightful, but it's time to take this analysis into large scale production for real-time understanding of your business We can show you how to do thE
 
 ## Why I May Be the Best Fit for Your Organisation
 
