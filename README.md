@@ -24,7 +24,8 @@ During this simulation, I took on the role of advising a hypothetical social med
 
 - **Stakeholder Engagement:**
   - Effectively communicated key insights to both the client and internal stakeholders.
-# MY Role at ANALYSIS TEAM
+## MY Role at ANALYSIS TEAM
+![image](https://github.com/aspiringNikhil/Accenture-Data-analytics-and-Visualization/assets/151496942/9e1bab18-52cd-4efd-b613-7a778fff7ee0)
 
 ## MY Approach to Data Cleaning
 
@@ -41,7 +42,7 @@ In ensuring data integrity and enhancing the quality of the datasets during the 
    - Merged disparate datasets seamlessly, fostering a holistic view for comprehensive analysis.
    - used =VLOOKUP( ) etc.
 
-This meticulous approach not only addressed fundamental data quality issues but also showcased proficiency in utilizing sophisticated Excel functions to ensure a refined dataset for subsequent analysis and presentation.
+## Sharing Insights and PRESENTING TO STAKEHOLDERS
 
 ## Why I May Be the Best Fit for Your Organisation
 
